@@ -9,10 +9,10 @@ This repository is a reflection of my consistency and learning through the **21 
 
 1. Database: MySQL / PostgreSQL
 2. Interface: MySQL Workbench / PgAdmin
-3. Dataset: Hospital Beds Management (from Kaggle, modified for the challenge)
+3. Dataset: Hospital Beds Management (from Kaggle)
 4. Editor: VS Code / DB Fiddle / SQL Fiddle
 5. Version Control: Git & GitHub
-
+---
 ### 🧩 Daily Submission Steps
 
 - Learn the day’s SQL topic
@@ -20,7 +20,7 @@ This repository is a reflection of my consistency and learning through the **21 
 - Solve daily challenge questions
 - Document the learnings in this repository
 - Share progress on social media using #SQLWithIDC and tag @indiandataclub & @DPDzero
-
+---
 ### 🧾 My Progress Tracker
 
 🟦 **Phase 1: Fundamentals (Day 1–7)**  
