@@ -4,6 +4,33 @@ Hey there! 🚀 Welcome to my journey with **Indian Data Club’s SQL Challenge*
 This repository is a reflection of my consistency and learning through the **21 Days SQL Challenge** organized by Indian Data Club.
 
 ---
+# SQL Challenge Tracker - Day 1 → Day 21
+
+| **Day** | **Topic**                | **Focus**                 |
+| ------- | ------------------------ | ------------------------- |
+| 1       | Introduction & SELECT    | Retrieve data             |
+| 2       | WHERE Clause             | Filter rows               |
+| 3       | ORDER BY                 | Sort results              |
+| 4       | LIMIT & OFFSET           | Control output size       |
+| 5       | Aggregate Functions      | COUNT, SUM, AVG           |
+| 6       | GROUP BY                 | Group and summarize       |
+| 7       | HAVING                   | Filter groups             |
+| 8       | String Functions         | Work with text            |
+| 9       | Date Functions           | Handle dates              |
+| 10      | CASE                     | Conditional logic         |
+| 11      | DISTINCT                 | Remove duplicates         |
+| 12      | NULL Handling            | Manage missing data       |
+| 13      | INNER JOIN               | Match data across tables  |
+| 14      | LEFT/RIGHT JOIN          | Include unmatched rows    |
+| 15      | Multiple Joins           | Combine many tables       |
+| 16      | Subqueries (WHERE)       | Nested filtering          |
+| 17      | Subqueries (SELECT/FROM) | Derived tables            |
+| 18      | UNION                    | Merge results             |
+| 19      | Window Functions         | Ranking & numbering       |
+| 20      | Window Aggregates        | Running totals & averages |
+| 21      | CTEs                     | Organize complex queries  |
+
+---
 
 ### 💻 Tools & Technologies
 
