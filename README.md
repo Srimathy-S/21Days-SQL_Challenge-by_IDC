@@ -4,7 +4,7 @@ Hey there! 🚀 Welcome to my journey with **Indian Data Club’s SQL Challenge*
 This repository is a reflection of my consistency and learning through the **21 Days SQL Challenge** organized by Indian Data Club.
 
 ---
-# SQL Challenge Tracker - Day 1 → Day 21
+## SQL Challenge Tracker - Day 1 → Day 21
 
 | **Day** | **Topic**                | **Focus**                 |
 | ------- | ------------------------ | ------------------------- |
