@@ -1,7 +1,7 @@
 # 🪶 21-Days SQL Challenge (Beginner → Advanced)
 
 Hey there! 🚀 Welcome to my journey with **Indian Data Club’s SQL Challenge**  
-This repository is a reflection of my consistency and learning through the **21 Days SQL Challenge** organized by Indian Data Club.
+This repository is a reflection of my consistency and learning through the **21 Days SQL Challenge** organized by **[Indian Data Club](https://www.indiandataclub.com/)**.
 
 ---
 ## SQL Challenge Tracker - Day 1 → Day 21
@@ -40,14 +40,6 @@ This repository is a reflection of my consistency and learning through the **21 
 4. Editor: VS Code / DB Fiddle / SQL Fiddle
 5. Version Control: Git & GitHub
 ---
-### 🧩 Daily Submission Steps
-
-- Learn the day’s SQL topic
-- Practice with example queries
-- Solve daily challenge questions
-- Document the learnings in this repository
-- Share progress on social media using #SQLWithIDC and tag @indiandataclub & @DPDzero
----
 ### 🧾 My Progress Tracker
 
 🟦 **Phase 1: Fundamentals (Day 1–7)**  
@@ -58,3 +50,19 @@ This repository is a reflection of my consistency and learning through the **21 
 
 🟪 **Phase 3: Advanced SQL & Final Project (Day 15–21)**  
 > Exploring performance, normalization, and solving real-world SQL challenges.
+---
+### 🌟 Acknowledgements  
+
+This challenge is part of the **[21 Days SQL Challenge](https://www.indiandataclub.com/)**  organized by **Indian Data Club**  in collaboration with **[DPDzero](https://dpdzero.com/)**.
+
+Special thanks to:
+- 🧠 **Indian Data Club (@indiandataclub)** for creating such a structured learning path  
+- ⚡ **DPDzero (@DPDzero)** for supporting the challenge and building a learner community  
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLWithIDC-21Days-blue?style=for-the-badge" alt="SQLWithIDC Badge">
+  <img src="https://img.shields.io/badge/IndianDataClub-SQLChallenge-orange?style=for-the-badge" alt="Indian Data Club Badge">
+  <img src="https://img.shields.io/badge/DPDzero-Powered By-blue?style=for-the-badge" alt="DPDzero Badge">
+</p>
+
+
