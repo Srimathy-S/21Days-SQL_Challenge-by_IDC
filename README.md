@@ -37,20 +37,9 @@ This repository is a reflection of my consistency and learning through the **21 
 1. Database: MySQL / PostgreSQL
 2. Interface: MySQL Workbench / PgAdmin
 3. Dataset: Hospital Beds Management (from Kaggle)
-4. Editor: VS Code / DB Fiddle / SQL Fiddle
-5. Version Control: Git & GitHub
+4. Version Control: Git & GitHub
 ---
-### 🧾 My Progress Tracker
 
-🟦 **Phase 1: Fundamentals (Day 1–7)**  
-> Learning the basics — SELECT, WHERE, ORDER BY, and Aggregates.
-
-🟩 **Phase 2: Intermediate Concepts (Day 8–14)**  
-> Diving deeper into Joins, Subqueries, and Grouping.
-
-🟪 **Phase 3: Advanced SQL & Final Project (Day 15–21)**  
-> Exploring performance, normalization, and solving real-world SQL challenges.
----
 ### 🌟 Acknowledgements  
 
 This challenge is part of the **[21 Days SQL Challenge](https://www.indiandataclub.com/)**  organized by **Indian Data Club**  in collaboration with **[DPDzero](https://dpdzero.com/)**.
