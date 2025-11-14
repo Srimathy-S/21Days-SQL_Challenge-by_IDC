@@ -1,0 +1,10 @@
+/* Find all unique combinations of service and event type from the services_weekly 
+table where events are not null or none, along with the count of occurrences for 
+each combination. Order by count descending.
+*/
+
+SELECT DISTINCT service, event, COUNT(*) AS Combination
+FROM services_weekly
+WHERE event IS NOT NULL and event != 'none'
+GROUP BY service, event
+ORDER BY Combination desc;
